@@ -32,6 +32,7 @@ ChatGPT充值渠道，Plus订阅、Pro 5x、Pro20x
 代充网站的基本流程是：使用人民币购买 ChatGPT Plus/Pro（5X/10X）充值服务，支付后获得卡密，再按照平台的最新教程，把会员充值到自己的 ChatGPT 账号。
 
 这里推荐用一个靠谱的代充平台 gptvip.pro 支持微信、支付宝支付。
+![GPT代充.png](https://i.see.you/2026/10/04/nG0a/GPT.png)
 
 下面讲解的获取卡密和充值流程，因此以下说明以该平台为例。
 
