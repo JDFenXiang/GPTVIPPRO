@@ -5,7 +5,8 @@ ChatGPT充值渠道，Plus订阅、Pro 5x、Pro20x
 
 非官方声明： 本项目为独立的第三方教程整理项目，与 OpenAI、Anthropic、GitHub 等公司不存在官方合作、授权或隶属关系。ChatGPT、OpenAI、Claude、Anthropic 等商标归各自权利人所有。
 
-安全提示： 第三方充值服务可能需要额外的账号授权信息，请充分了解其安全风险，不要向任何不可信第三方提供密码、验证码、Cookie、Session Token 或 API Key。
+安全提示：
+第三方充值服务可能需要额外的账号授权信息，请充分了解其安全风险，不要向任何不可信第三方提供密码、验证码、Cookie、Session Token 或 API Key。
 
 在国内，没有海外信用卡，怎么把自己的 ChatGPT 账号升级成 Plus/Pro（5X/10X）？
 
@@ -174,4 +175,5 @@ ChatGPT Plus 包含 API 额度吗？
 苹果用户愿意处理 Apple ID 和礼品卡，可以考虑 App Store；
 没有海外卡、不想研究虚拟卡，或需要微信付款和公司开票，可以考虑本文实际测试过的第三方充值服务；
 不要使用共享账号处理隐私内容。
+
 👉 ChatGPT Plus/Pro 第三方充值入口:https://gptvip.pro
