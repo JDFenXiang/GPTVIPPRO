@@ -54,7 +54,7 @@
 
 ## 用 gptvip.pro 充值的流程
 
-我自己在用的是 [gptvip.pro](https://gptvip.pro)，网站上提供 ChatGPT Plus 充值、ChatGPT Pro 充值，另外还有 Codex 使用方面的指导。付款支持支付宝和微信支付。
+我自己在用的是 [gptvip.pro](https://gptvip.pro)，网站上提供 ChatGPT Plus 充值、ChatGPT Pro 充值，另外还有 Codex 使用方面的指导。付款支持支付宝和微信支付。价格页目前能看到 Plus 月费、不同倍率的 Pro 月费，以及 Plus 包年；具体档位名称和金额以下单时页面为准。按网站[充值教程](https://gptvip.pro/guide)和价格页公告，Plus 月费目前支持付款后自助充值，Pro 和 Plus 包年需要付款后联系客服做人工充值。需要说明的是：OpenAI 官方帮助中心写明 Plus / Pro 暂不支持官方年付，所以价格页上的「Plus 包年」是平台商品，不是官网自己的年付套餐。
 
 按网站上写的，大致是三步：
 
@@ -79,6 +79,9 @@
 ### 怎么确认到账了？
 登录 ChatGPT，在设置里看订阅状态；或者到 gptvip.pro 的订单查询页看处理结果。到账时间网站上写的是一般几分钟，遇到 OpenAI 那边延迟会慢一些。充好了却还显示免费版，可以看这篇：[充值后怎么确认 Plus / Pro 到账了](docs/check-subscription.md)。
 
+### Plus 和 Pro 怎么选？
+网站上的说法是：Plus 适合日常高频使用，Pro 更适合深度研究、复杂任务和更高规格的需求。OpenAI 官方对模型权限、上下文长度、Codex 和 API 额度的说明，我对照整理在这篇：[ChatGPT Plus 和 Pro 怎么选：充值前对照官方差异和平台套餐](docs/chatgpt-plus-vs-pro.md)。拿不准的话也可以先问客服。
+
 ### 已经是 Plus，还能再充或者升级 Pro 吗？
 这种情况属于网站提到的“订阅冲突”，先联系客服说明当前状态，再决定怎么处理比较稳妥。
 
@@ -91,6 +94,7 @@
 ## 延伸阅读
 
 - [充值后怎么确认 Plus / Pro 到账了：会员不显示时的排查顺序](docs/check-subscription.md)
+- [ChatGPT Plus 和 Pro 怎么选：充值前对照官方差异和平台套餐](docs/chatgpt-plus-vs-pro.md)
 
 ## 几条安全建议
 
